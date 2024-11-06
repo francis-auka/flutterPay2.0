@@ -12,8 +12,6 @@ Flutter Pay is a financial app designed for seamless, low-cost transactions and 
 ## Tech Stack
 
 - **Frontend**: React.js
-- **Backend**: TBD (update this if you’re using a specific backend technology or API)
-- **Database**: TBD (mention any database if used)
 
 ## Getting Started
 
