@@ -30,5 +30,19 @@ To get a local copy up and running, follow these steps:
    ```bash
    git clone https://github.com/your-username/flutter-pay.git
    cd flutter-pay
+2. install dependancies:
+   ```bash
+   npm install
+3. Start development server:
+   ```bash
+   npm start
+4. Open http://localhost:3000 in your browser to view the app.
+
+#### Contribution
+
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+
+
    
   
